@@ -1,0 +1,23 @@
+﻿{	
+	"ServerName":["prtaofs01_tellhtc.htc.com.tw","prtaosamba01_tellhtc.htc.com.tw","10.122.130.182"],
+	"MailServer":"10.122.128.28",
+	"MailSender":"yuhsuan_chen@htc.com",
+	"MailReceiver":"yuhsuan_chen@htc.com,a_gangan@hotmail.com",
+	"CheckItems":{
+		"0":{
+			"Type":"LasK",
+			"RootPath":"T:\\",
+			"FileMatch":"LASTKMSG"
+		},
+		"1":{
+			"Type":"ModemReset",
+			"RootPath":"T:\\",
+			"FileMatch":"HTC_MODEM_RESET"
+		},
+		"2":{
+			"Type":"PES",
+			"RootPath":"T:\\abnormal\\",
+			"FileMatch":"HTC_PWR"
+		}
+	}
+}

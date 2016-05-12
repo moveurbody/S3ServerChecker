@@ -1,0 +1,8 @@
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\S3ServerChecker.exe.config
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\S3ServerChecker.exe
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\S3ServerChecker.pdb
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\S3ServerChecker.exe
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\S3ServerChecker.pdb
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\S3ServerChecker.csprojResolveAssemblyReference.cache

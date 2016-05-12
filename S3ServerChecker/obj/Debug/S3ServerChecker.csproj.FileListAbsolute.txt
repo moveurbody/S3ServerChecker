@@ -1,0 +1,10 @@
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\S3ServerChecker.exe.config
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\S3ServerChecker.exe
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\S3ServerChecker.pdb
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\S3ServerChecker.exe
+C:\Users\Yuhsuan_chen\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\S3ServerChecker.pdb
+C:\Users\Yuhsuan_chen\Desktop\S3ServerChecker\S3ServerChecker\bin\Debug\S3ServerChecker.exe.config
+C:\Users\Yuhsuan_chen\Desktop\S3ServerChecker\S3ServerChecker\obj\Debug\S3ServerChecker.exe
+C:\Users\Yuhsuan_chen\Desktop\S3ServerChecker\S3ServerChecker\obj\Debug\S3ServerChecker.pdb
